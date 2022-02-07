@@ -15,7 +15,13 @@ also links to another website called showthedocs.com which
 does something similar, but for programming languages like mysql.
 Both websites seem like helpful learning tools to me.
 
-## 3rd Party Comments:
+
+## Additional Thoughts
+#### Helen Dong
+
+Given how many tools and resources we have at our fingertips in this day and age, it only makes sense that someone created this kind of website to help others with shell commands. I've never seen this website before, but I can see how it will be helpful to me in the future when I'm looking up how to do certain things on the command line. It's also really thoughtful of the creator to link to showthedocs for programming languages, since it's likely that people who would find this site helpful would also find a similar site for programming languages helpful as well. Definitely an interesting and well thought out product!
+
+#### Sam Darwish
 The biggest issue I've had in transitioning between different
 workflows between different projects is learning the specifics
 of each command. It's easy enough to gain a working knowledge,
@@ -23,4 +29,4 @@ but to really optimize the workflow and gain some efficiency,
 it's important to dig deeper on the commands. As such, I think
 this is a great resource for investigating the commands as you
 learn them.
-- Sam Darwish
+
